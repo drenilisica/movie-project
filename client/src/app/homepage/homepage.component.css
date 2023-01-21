@@ -1,0 +1,36 @@
+
+.homepage{
+  position: relative;
+  overflow: hidden;
+  height: 895px;
+  width: 100%;
+  background-color: black;
+  opacity: 0.9;
+  z-index: -1;
+}
+img{
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -2;
+  vertical-align: middle;
+}
+
+
+.home-text{
+  padding: 360px 15px;
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+  margin:auto;
+}
+h1{
+  font-family: 'Lobster';
+  color:white;
+  font-size: 60px;
+}

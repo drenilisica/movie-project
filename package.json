@@ -1,0 +1,19 @@
+{
+  "name": "movie-project",
+  "version": "1.0.0",
+  "description": "Front-end Project (Angular)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drenilisica/movie-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drenilisica/movie-project/issues"
+  },
+  "homepage": "https://github.com/drenilisica/movie-project#readme"
+}
